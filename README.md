@@ -1,6 +1,3 @@
-Below is a sample `README.md` file that you can include in your project's root directory. It provides an overview, setup instructions, and usage details for the Flask application and the MVP test agent.
-
----
 
 # AI-Driven Automated UI Testing (MVP)
 
